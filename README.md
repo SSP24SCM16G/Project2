@@ -21,6 +21,7 @@ y = (X[:, 0] + X[:, 1] > 0).astype(int)
 clf = GradientBoostingClassifier(n_estimators=50, learning_rate=0.1)
 clf.fit(X, y)
 y_pred = clf.predict(X)
+```
 
 ## Are there specific inputs that your implementation has trouble with? Given more time, could you work around these or is it fundamental?
 The implementation currently supports only binary classification.
