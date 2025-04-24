@@ -1,3 +1,11 @@
+# Team:
+Samhitha Gouru          - A20550016
+Harini Korada           - A20546869
+M V Gayathri Rishitha   - A20563808
+Maithreyee Doma         - A20549555
+
+
+
 # Gradient Boosting Tree Classifier from Scratch
 
 ## What does the model you have implemented do and when should it be used?
